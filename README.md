@@ -21,8 +21,8 @@ Changes from the Original:
 Instruction for install (git required)
 ==========
 * Download and execute installer
-  *  ```sh wget https://git.io/vd3sX -O install```
-  *  ```sh bash install```
+  *  ```wget https://git.io/vd3sX -O install```
+  *  ```bash install```
 * Enable skin
   * As reseller, go to the skin manager
   * Select einDa-skin
