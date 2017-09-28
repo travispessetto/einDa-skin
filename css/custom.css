@@ -1,7 +1,22 @@
-.plugin-ico a
+.plugin-ico > a
 {
   text-align:center;
   font-size:.8em;
   padding-top:.5em;
-  color:#888
+  color:#888;
+ font-family:'Montserrat',sans-serif;
+}
+
+.plugin-ico > a > img{
+  display:block;
+  background:#f7f7f7;
+  height:5.5em;
+  text-align:center;
+  -webkit-border-radius:.1em;
+  -moz-border-radius:.1em;
+  border-radius:.1em;
+  -webkit-transition:all .2s ease-in-out;
+  -moz-transition:all .2s ease-in-out;
+  -o-transition:all .2s ease-in-out;
+  transition:all .2s ease-in-;
 }
