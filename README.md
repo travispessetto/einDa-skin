@@ -7,6 +7,10 @@ Mobile-First skin to Directadmin CP.
 * License: MIT
 * Web: http://smicroz.tumblr.com/
 
+Changes from the Original:
+
+* Plugins appear with their icon
+
 ![](https://raw.githubusercontent.com/smicroz/einDa-skin/master/utils/screen/v032-desktop-3.png)
 
 ![](https://raw.githubusercontent.com/smicroz/einDa-skin/master/utils/screen/v032-desktop-2.png)
@@ -17,8 +21,8 @@ Mobile-First skin to Directadmin CP.
 Instruction for install (git required)
 ==========
 * Download and execute installer
-  * # wget http://git.io/ppxV -O install
-  * # bash install
+  *  >> wget https://git.io/vd3sX -O install
+  *  >> bash install
 * Enable skin
   * As reseller, go to the skin manager
   * Select einDa-skin
